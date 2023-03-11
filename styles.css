@@ -9,11 +9,7 @@
     display: inline-block;
   
   }
-.cont{
-     width: 70%;
-    margin: auto;
-    text-align: center;
-  }
+
   
 
   
@@ -39,7 +35,7 @@
     width: 80%;
   }
   
-  button{
+  #btn{
     background: #20bd7e;
     background-image: -webkit-linear-gradient(top, #20bd7e, #348551);
     background-image: -moz-linear-gradient(top, #20bd7e, #348551);
@@ -55,7 +51,7 @@
     padding: 10px 20px 10px 20px;
     text-decoration: none;
   }
-  button:hover{
+  #btn:hover{
    
         background: #fc3c4c;
         background-image: -webkit-linear-gradient(top, #fc3c4c, #d93442);
