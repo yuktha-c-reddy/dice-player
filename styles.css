@@ -4,12 +4,14 @@
     text-align: center;
   }
 .cont{
+ 
      width: 70%;
     margin: auto;
     text-align: center;
   }
   
   .dice {
+     padding-top: 1in;
     text-align: center;
     display: inline-block;
   } 
