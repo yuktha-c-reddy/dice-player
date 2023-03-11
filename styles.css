@@ -9,9 +9,13 @@
     display: inline-block;
   
   }
-div{
-    text-align:center;
-}
+.cont{
+     width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+  
+
   
   body {
     background-color: #393E46;
