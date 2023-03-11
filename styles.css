@@ -32,7 +32,7 @@
   
   #btn{
     margin:auto;
-    position:relative;
+    position:absolute;
     display:block;
     align-items:center;
     background: #20bd7e;
