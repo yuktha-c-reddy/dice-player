@@ -31,6 +31,8 @@
   }
   
   #btn{
+    margin:auto;
+    display:block;
     align-items:center;
     background: #20bd7e;
     background-image: -webkit-linear-gradient(top, #20bd7e, #348551);
